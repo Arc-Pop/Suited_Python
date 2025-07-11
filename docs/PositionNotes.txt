@@ -1,0 +1,86 @@
+
+
+Number of Players:
+1
+x1 = -.85 to .85
+y1 = -4.5 to -5.4
+2
+x2 = -.85 to .85
+y2 = -5.7 to -6.6
+3
+x3 = -.85 to .85
+y3 = -6.9 to -7.8
+
+Suits:
+Clubs
+x1 = -1.6 to 1.6
+y1 = -4.5 to -5.4
+Diamonds
+x2 = -1.6 to 1.6
+y2 = -5.7 to -6.6
+Hearts
+x3 = -1.6 to 1.6
+y3 = -6.9 to -7.8
+Spades
+x4 = -1.6 to 1.6
+y4 = -8.1 to -9.0
+
+Player 1 Cards:
+Ace
+2
+3
+4
+5
+6
+7
+8
+9
+10
+King
+Queen
+Jack
+
+Player 2 Cards:
+Ace
+2
+3
+4
+5
+6
+7
+8
+9
+10
+King
+Queen
+Jack
+
+Player 3 Cards:
+Ace
+2
+3
+4
+5
+6
+7
+8
+9
+10
+King
+Queen
+Jack
+
+Player 4 Cards:
+Ace
+2
+3
+4
+5
+6
+7
+8
+9
+10
+King
+Queen
+Jack
