@@ -27,5 +27,5 @@ If you run out of cards before taking action with each character your turn ends 
 The health of the party can vary to shorten or extend games. The recommended health levels are Jack 40 , Queen 45 , King 50. 
 The game is over when only one player has party members left.
 
-Select an unseen card from the opponents hand and whoever has the highest number goes first. Repeat if the cards are the same value until a winner is decided. 
+Select an unseen card from the opponents hand and whoever has the highest number goes first. Repeat if the cards are the same value until a winner is decided.  
 Let the games, BEGIN!
