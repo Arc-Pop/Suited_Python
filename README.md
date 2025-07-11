@@ -2,7 +2,8 @@
 
 Suited is a playing card game which was inspired by classic RPG video games where 3 member parties battle each other in turn based combat.
 I created the Suited card game several years ago when I was involved in a table top game group which led me to think about how to make a game that was 
-more accessible than the ones we were playing which often involved many trading cards, models, or other game components. 
+more accessible than the ones we were playing which often involved many trading cards, models, or other game components.  
+
 When I began learning animation in Python I decided to make a 3d version of Suited to practice and display my ability.
 
 # How to Play Suited:
